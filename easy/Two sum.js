@@ -7,3 +7,6 @@ const twoSum = function (nums, sum) {
         else obj[nums[i]] = i;
     }
 };
+
+
+test
